@@ -7,3 +7,16 @@ The goal of this project was to simulate a real-world business analytics scenari
 
 ## Dashboard
 <img width="1168" height="634" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/22ff8d31-fb22-4fe0-8b8e-9d23258105bf" />
+
+## Key Insights
+
+The sales dashboard revealed that Fruits & Vegetables, and Snack Foods dominate revenue, contributing the largest share of the company’s total sales. Performance peaked in 2018 before declining and stabilizing, signaling potential external or operational factors worth investigating. Urban outlets led sales, while medium and large outlet sizes generated nearly 80% of total revenue, underscoring their strategic importance.
+
+Supermarkets emerged as the strongest outlet type, far outpacing convenience and grocery stores. Meanwhile, low-performing categories such as Seafood and Pet Supplies present opportunities for product rationalization or targeted promotions. Overall, the analysis highlights clear paths for growth: focus on bestsellers, strengthen high-performing outlets, expand urban market dominance, and investigate sales downturns to sustain long-term profitability.
+
+## Tools and Skills
+- Microsoft Excel
+- Data Cleaning and Analysis
+- Sales Analysis
+- Data Visualization
+
